@@ -50,6 +50,7 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-2ea44f?style=flat-square)
 ![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-e36209?style=flat-square)
 ![TCL](https://img.shields.io/badge/TCL%20Scripting-e36209?style=flat-square)
+![Cadence Genus](https://img.shields.io/badge/Cadence%20Genus-e36209?style=flat-square)
 
 **🔵 Design Concepts**
 

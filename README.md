@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=120§ion=header&text=Arshad%20Ansari&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=VLSI%20Design%20Engineer%20%7C%20M.Tech%20ECE%20%40%20NIT%20Hamirpur&descAlignY=65&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=120&section=header&text=Arshad%20Ansari&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=M.Tech%20VLSI%20Design%20Student%20%7C%20NIT%20Hamirpur&descAlignY=65&descColor=8b949e" alt="Arshad Ansari banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF¢er=true&vCenter=true&width=550&lines=RTL+Design+%7C+CDC+%7C+FPGA+Flow;Booth's+Algorithm+%7C+Async+FIFO;Verilog+%7C+SystemVerilog+%7C+TCL;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=RTL+Design+%7C+CDC+%7C+FPGA+Flow;Booth's+Algorithm+%7C+Async+FIFO;Verilog+%7C+SystemVerilog+%7C+TCL;Currently+Learning+SystemVerilog+Verification)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=arshad04022002&color=58a6ff&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=arshad-vlsi&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 ![Open to Work](https://img.shields.io/badge/Open%20to-VLSI%20Internships-2ea44f?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Hamirpur%2C%20HP%2C%20India-e36209?style=flat-square)
 
@@ -71,19 +71,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [⚡ Booth's Multiplier](https://github.com/arshad04022002/booth-multiplier-fpga) | Signed 4-bit multiplier — full FPGA flow with timing, power & DRC analysis on Kintex-7 | Verilog · Vivado · Kintex-7 |
-| [🔄 Async FIFO](https://github.com/arshad04022002/async-fifo) | 6-module CDC design with Gray code pointer sync & 2-FF synchronizers | Verilog · Vivado |
-| [🔢 Up/Down Counter](https://github.com/arshad04022002/up-down-counter) | Dual counter verified via shared testbench & single waveform | Verilog · Vivado |
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshad04022002&theme=github_dark&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+| [⚡ Booth's Multiplier](https://github.com/arshad-vlsi/booth-multiplier-fpga) | Signed 4-bit multiplier — full FPGA flow with timing, power & DRC analysis on Kintex-7 | Verilog · Vivado · Kintex-7 |
+| [🔄 Async FIFO](https://github.com/arshad-vlsi/async-fifo) | 6-module CDC design with Gray code pointer sync & 2-FF synchronizers | Verilog · Vivado |
+| [🔢 Up/Down Counter](https://github.com/arshad-vlsi/up-down-counter) | Dual counter verified via shared testbench & single waveform | Verilog · Vivado |
+| [🧪 SystemVerilog Practice](https://github.com/arshad-vlsi/systemverilog-practice) | Daily SV tasks and testbenches — data types, arrays, queues, classes, tasks & functions | SystemVerilog |
 
 ---
 
@@ -91,8 +82,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshad04022002&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad04022002&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshad-vlsi&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&border_radius=10&custom_title=GitHub%20Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-vlsi&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&border_radius=10)
 
 </div>
 
@@ -109,7 +100,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arshadansari04-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadansari04/)
-[![Gmail](https://img.shields.io/badge/Gmail-ansariarshad2305@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ansariarshad2305@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ansariarshad2305@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ansariarshad2305@gmail.com)
 
 </div>
 
@@ -117,9 +108,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=80§ion=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=80&section=footer" alt="footer" />
 
 <sub>⚡ Open to VLSI internships · Always learning · Building one project at a time</sub>
 
 </div>
-    

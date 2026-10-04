@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=arshad-vlsi&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Open%20to-VLSI%20Internships-2ea44f?style=flat-square" alt="Open to VLSI Internships" />
 <img src="https://img.shields.io/badge/📍-Hamirpur%2C%20HP%2C%20India-e36209?style=flat-square" alt="Location" />
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=120&section=header&text=Arshad%20Ansari&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=M.Tech%20VLSI%20Design%20Student%20%7C%20NIT%20Hamirpur&descAlignY=65&descColor=8b949e" alt="Arshad Ansari banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=120§ion=header&text=Arshad%20Ansari&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=M.Tech%20VLSI%20Design%20Student%20%7C%20NIT%20Hamirpur&descAlignY=65&descColor=8b949e" alt="Arshad Ansari banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=RTL+Design+%7C+CDC+%7C+FPGA+Flow;Booth's+Algorithm+%7C+Async+FIFO;Verilog+%7C+SystemVerilog+%7C+TCL;Currently+Learning+SystemVerilog+Verification)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF¢er=true&vCenter=true&width=550&lines=RTL+Design+%7C+CDC+%7C+FPGA+Flow;Booth's+Algorithm+%7C+Async+FIFO;Verilog+%7C+SystemVerilog+%7C+TCL;Currently+Learning+SystemVerilog+Verification)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td>🏆 <strong>Achievement</strong></td>
-<td>Full FPGA flow completed — Bitstream on Kintex-7</td>
+<td>RTL to gate-level synthesis completed — Cadence Genus 21.14 on 90nm</td>
 </tr>
 <tr>
 <td>💼 <strong>Looking For</strong></td>
@@ -70,7 +70,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-[Booth's Multiplier](https://github.com/arshad-vlsi/booth-multiplier-synthesis) | Signed 4-bit multiplier — full FPGA flow with timing, power & DRC analysis on Kintex-7 | Verilog · Vivado · Kintex-7 |
+| [✖️ Booth's Multiplier](https://github.com/arshad-vlsi/booth-multiplier-synthesis) | Signed 4-bit Booth radix-2 multiplier — RTL to gate-level synthesis using Cadence Genus 21.14 on 90nm standard cell | Verilog · Cadence Genus · 90nm |
 | [🔄 Async FIFO](https://github.com/arshad-vlsi/async-fifo) | 6-module CDC design with Gray code pointer sync & 2-FF synchronizers | Verilog · Vivado |
 | [🔢 Up/Down Counter](https://github.com/arshad-vlsi/up-down-counter) | Dual counter verified via shared testbench & single waveform | Verilog · Vivado |
 | [🧪 SystemVerilog Practice](https://github.com/arshad-vlsi/systemverilog-practice) | Daily SV tasks and testbenches — data types, arrays, queues, classes, tasks & functions | SystemVerilog |
@@ -107,8 +107,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=80&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0d1117&height=80§ion=footer" alt="footer" />
 
 <sub>⚡ Open to VLSI internships · Always learning · Building one project at a time</sub>
 
 </div>
+  

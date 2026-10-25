@@ -70,7 +70,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [⚡ Booth's Multiplier](https://github.com/arshad-vlsi/booth-multiplier-fpga) | Signed 4-bit multiplier — full FPGA flow with timing, power & DRC analysis on Kintex-7 | Verilog · Vivado · Kintex-7 |
+[Booth's Multiplier](https://github.com/arshad-vlsi/booth-multiplier-synthesis) | Signed 4-bit multiplier — full FPGA flow with timing, power & DRC analysis on Kintex-7 | Verilog · Vivado · Kintex-7 |
 | [🔄 Async FIFO](https://github.com/arshad-vlsi/async-fifo) | 6-module CDC design with Gray code pointer sync & 2-FF synchronizers | Verilog · Vivado |
 | [🔢 Up/Down Counter](https://github.com/arshad-vlsi/up-down-counter) | Dual counter verified via shared testbench & single waveform | Verilog · Vivado |
 | [🧪 SystemVerilog Practice](https://github.com/arshad-vlsi/systemverilog-practice) | Daily SV tasks and testbenches — data types, arrays, queues, classes, tasks & functions | SystemVerilog |

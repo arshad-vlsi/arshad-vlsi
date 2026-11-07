@@ -74,6 +74,7 @@
 | [🔄 Async FIFO](https://github.com/arshad-vlsi/async-fifo) | 6-module CDC design with Gray code pointer sync & 2-FF synchronizers | Verilog · Vivado |
 | [🔢 Up/Down Counter](https://github.com/arshad-vlsi/up-down-counter) | Dual counter verified via shared testbench & single waveform | Verilog · Vivado |
 | [🧪 SystemVerilog Practice](https://github.com/arshad-vlsi/systemverilog-practice) | Daily SV tasks and testbenches — data types, arrays, queues, classes, tasks & functions | SystemVerilog |
+| [⚙️ Execution Unit RTL-to-GDSII](https://github.com/arshad-vlsi/Execution-Unit-RTL-to-GDSII) | 32-bit processor execution unit — decoder, 32×32 register file, ALU; functionally verified, synthesis and physical design in progress | Verilog · Cadence Xcelium · Genus · Innovus |
 
 ---
 
